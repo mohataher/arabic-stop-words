@@ -9,7 +9,7 @@ Largest list of Arabic stop words on Github.
 
 ## List
 
-Please view list in [here](https://github.com/mohataher/arabic-stop-words). It contains 750 stop words.
+Please view list in [here](https://github.com/mohataher/arabic-stop-words/blob/master/list.txt). It contains 750 stop words.
 
 ## License
 
