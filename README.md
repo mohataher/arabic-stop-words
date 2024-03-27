@@ -16,3 +16,12 @@ Please view list in [here](https://github.com/mohataher/arabic-stop-words/blob/m
 ## License
 
 This repsitory is licensed under MIT license.
+
+## Cite
+
+@misc{alrefaie2019arabic,
+  title={Arabic Stop Words},
+  author={Alrefaie, Mohamed Taher},
+  year={2019},
+}
+
